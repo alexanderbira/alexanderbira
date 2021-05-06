@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development
 - 💡 I know HTML, CSS, JS (ES6), React, React-Native, PHP, and Python
 - 🌱 I’m currently learning typescript
-- 🌐 You can see my portfolio over at <a href="https://alexanderbira.github.io" target="_blank">alexanderbira.github.io</a>
+- 🌐 You can see my portfolio over at <a href="https://www.alexbr.dev" target="_blank">alexbr.dev</a>
