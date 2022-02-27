@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexanderbira
 - 👀 I’m interested in web development
-- 💡 I know HTML, CSS, JS (ES6), React, React-Native, PHP, and Python
-- 🌱 I’m currently learning typescript
+- 💡 I know HTML, CSS, JS (ES6), React, React-Native, and Python
+- 🌱 I’m currently learning data analysis with Python
 - 🌐 You can see my portfolio over at <a href="https://www.alexbr.dev" target="_blank">alexbr.dev</a>
