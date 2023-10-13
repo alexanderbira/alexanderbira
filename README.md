@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexanderbira
 - 💡 I do web things with React and data things with Python
-- 🌱 I’m currently learning Rust and ML with Python
+- 🌱 I’m currently studying computing at Imperial College London
 - 🌐 You can see my site at <a href="https://www.alexbr.dev" target="_blank">alexbr.dev</a>
 
 <a href="#">
