@@ -9,3 +9,5 @@
 <a href="#">
   <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderbira&theme=transparent&layout=compact&hide=HTML,CSS&hide_border=true" />
 </a>
+
+[![](https://komarev.com/ghpvc/?username=alexanderbira&color=006aff)](#)
