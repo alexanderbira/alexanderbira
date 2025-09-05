@@ -3,10 +3,10 @@
 - 🌐 You can see my site at <a href="https://www.alexbr.dev" target="_blank">alexbr.dev</a>
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alexanderbira&theme=transparent&hide=issues,contribs&count_private=true&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true" />
+  <img align="top" src="https://github-readme-stats-omega-ivory-51.vercel.app/api?username=alexanderbira&theme=transparent&hide=issues,contribs&count_private=true&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true" />
 </a>
 <a href="#">
-  <img align="top"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderbira&theme=transparent&layout=compact&hide=HTML,CSS&hide_border=true" />
+  <img align="top"  src="https://github-readme-stats-omega-ivory-51.vercel.app/api/top-langs/?username=alexanderbira&theme=transparent&layout=compact&hide=HTML,CSS,perl&hide_border=true" />
 </a>
 
 [![](https://komarev.com/ghpvc/?username=alexanderbira&color=006aff)](#)
